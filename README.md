@@ -51,13 +51,13 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-#Featured Projects
+# Featured Projects
 
-** RAG-Based Customer Support Bot
+** RAG-Based Customer Support Bot **
 
 An AI-powered customer support system using Retrieval-Augmented Generation (RAG) to provide context-aware responses from knowledge sources.
 
-** AI-Ops Kubernetes Agent
+** AI-Ops Kubernetes Agent **
 
 An AI-assisted Kubernetes project focused on monitoring, troubleshooting and simplifying DevOps workflows.
 
