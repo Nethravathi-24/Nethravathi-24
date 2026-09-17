@@ -27,27 +27,27 @@
 
 - Skills & Technologies
 
-- Programming Languages
+  **Programming Languages**
 
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
 </p>
+  
+  **Web & Backend**
 
-- Web & Backend
-
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" />
 </p>
 
-- Databases & Tools
+  **Databases & Tools**
 
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,docker" />
 </p>
 
-- AI / ML
+  **AI / ML**
 
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
@@ -82,7 +82,7 @@ A backend application built with FastAPI for managing library records and CRUD o
 
 - Contribute to open-source projects
 
-** Connect With Me
+**Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nethravathi-d24/">
