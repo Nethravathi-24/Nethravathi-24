@@ -29,7 +29,7 @@
 
 - Programming Languages
 
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
 </p>
 
@@ -53,24 +53,24 @@
 
 # Featured Projects
 
-** RAG-Based Customer Support Bot **
+**RAG-Based Customer Support Bot**
 
 An AI-powered customer support system using Retrieval-Augmented Generation (RAG) to provide context-aware responses from knowledge sources.
 
-** AI-Ops Kubernetes Agent **
+**AI-Ops Kubernetes Agent**
 
 An AI-assisted Kubernetes project focused on monitoring, troubleshooting and simplifying DevOps workflows.
 
-** Cognitive Early Burnout Analysis Using Explainable AI
+**Cognitive Early Burnout Analysis Using Explainable AI**
 
 A privacy-first project that uses behavioral telemetry, machine learning and explainable AI techniques to analyze patterns associated with cognitive workload and burnout risk.
 
-** Library Management System
+**Library Management System**
 
 A backend application built with FastAPI for managing library records and CRUD operations with database integration.
 <br>
 
-** Goals
+**Goals**
 
 - Build production-ready software projects
 
@@ -95,8 +95,4 @@ A backend application built with FastAPI for managing library records and CRUD o
 
 <p align="center">
   <i>✨ Building, learning, and growing one project at a time.</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
 </p>
