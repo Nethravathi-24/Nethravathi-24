@@ -6,8 +6,13 @@
   <a href="https://www.linkedin.com/in/nethravathi-d24/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/Nethravathi-24">
     <img src="https://img.shields.io/badge/GitHub-Nethravathi--24-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://nethravathi-d-24.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
