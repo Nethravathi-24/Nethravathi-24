@@ -25,31 +25,19 @@
 
 - Currently learning and experimenting with new technologies
 
-- Skills & Technologies
+## 🛠️ Skills
 
-  **Programming Languages**
+**Languages →** Python · Java · C · JavaScript · TypeScript
 
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
-</p>
-  
-  **Web & Backend**
+**Backend →** FastAPI · Node.js · REST APIs
 
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" />
-</p>
+**Frontend →** HTML · CSS · React
 
-  **Databases & Tools**
+**Databases →** MySQL · MongoDB · PostgreSQL
 
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,docker" />
-</p>
+**AI / ML →** Machine Learning · RAG · AI Agents · Explainable AI
 
-  **AI / ML**
-
-<p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+**Tools →** Git · GitHub · Docker · VS Code
 
 # Featured Projects
 
