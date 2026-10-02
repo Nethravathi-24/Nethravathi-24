@@ -25,7 +25,7 @@
 
 - Currently learning and experimenting with new technologies
 
-## 🛠️ Skills
+## Skills
 
 **Languages →** Python · Java · C · JavaScript · TypeScript
 
